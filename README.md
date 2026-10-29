@@ -42,6 +42,3 @@ When making a request you need to specify the **method**:
 You also typically need **headers** and **query parameters**.
 
 
-
-This example uses the following API: https://thecatapi.com/
-
